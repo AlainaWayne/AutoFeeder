@@ -67,12 +67,17 @@ The feeder was crafted using a combination of CNC machining, 3D printing, and tr
 ![cat feeder turntable dimensional drawing](https://github.com/user-attachments/assets/a0950ead-b7b6-436f-9a9d-34da4cd93d10)
 - The turntable was designed to hold 4 full cat food cans (enough food for 2-4 days depending on feeding schedule)
 - there is an empty slot to be used as a home position when the machine is not in use
-  
+
+- The turntable needed to be 12 inches in diameter, but the largest stock wood we had access to was 8 inches wide
+- To solve this we glued together two pices of stock material to be cut on the CNC mill
+
 ![Turntable Milling](https://github.com/user-attachments/assets/6c4cd75c-c381-45f2-a757-223fee642585)
-- It was cnc milled on a Laguna IQ CNC machine
+- It was milled on a Laguna IQ CNC machine
+
 ![Turntable milling issue](https://github.com/user-attachments/assets/32855f11-e6e7-464f-9249-ebcc226040fb)
-- The stock material ended up being slightly thicker than what we designed for
-- To fix this, a hand saw was used to cut the rest of the way though
+- The stock material ended up being slightly thicker than what we designed for, so th emachine did not cut the holes all the way through
+- To fix this, a hand saw was used to cut the rest of the way
+
 ![Turntable](https://github.com/user-attachments/assets/504d0fd9-736e-4ade-b650-78bbfeb965f1)
 
 ### Main Housing
@@ -80,31 +85,32 @@ The feeder was crafted using a combination of CNC machining, 3D printing, and tr
 
 #### Back Shell
 - The main function of the back shell is to house the electrical components and provide a route for heat to be pulled from the system
+
 ![cat feeder shell dimensional drawing](https://github.com/user-attachments/assets/6123a16d-bcdf-4d1f-83ca-eea9d3bd0be5)
 - This section of the housing was manufactured using a combination of machine tools and hand tools
 
 - First, each panel of wood (base, 2 side walls, and back wall) we cut to the correct dimensionsions using a miter saw
-- The back wall panel then had 3 circular holes cut in the back, where the fans would later be attached, using a drill press with a hole saw attachment
+- The back wall panel then had 3 circular holes, where the fans would later be attached, carefully cut out using a drill press with a hole saw attachment
+- ![20241121_171549](https://github.com/user-attachments/assets/f2298b4f-b619-4d59-83be-9c6aa5ad68d0)
+- ![image](https://github.com/user-attachments/assets/9e914c16-25f5-4ce2-904b-58f9cb6455bc)
   
-- once each panel was cut, aditinal sanding using rotary, belt, and random orbital sanders was don to ensure that the wood was consistently smooth and minimize risk of splintering
+- once each panel was cut, aditinal sanding using rotary, belt, and random orbital sandering tools was done to ensure that the wood was consistently smooth and minimize risk of splintering
 
 ![gluing housing components](https://github.com/user-attachments/assets/ed31a8fe-3cc4-4bfe-a306-0abec0586cb9)
-- The panels were then initiall glued together using wood glue to privide strength and stability for installing wood screws
+- The panels were then initially glued together using wood glue to privide strength and stability for installing wood screws
 
 ![assembled wood components and fans](https://github.com/user-attachments/assets/851e2f9d-d122-401b-a46e-f5dd95160c39)
 
 #### Fans
 - Three computer fans were placed at the rear of the housig to provide through cooling of the hot side of the peltiers
 
+
+
 #### Sliding Motor Tensioning
 ![motor tensioning](https://github.com/user-attachments/assets/91ca1d00-bf66-4d75-b252-d9664c1fe852)
 - During assembly, an issue was encountered where the motor would shift and cause the chain to loose tension over time
 - This was resolved by implementing a sliding tensioning system
-
-
-
-
-
+  
 ---
 
 ## Electronics

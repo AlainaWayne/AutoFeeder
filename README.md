@@ -54,7 +54,7 @@ For the complete Bill of Materials, refer to the [BOM File](https://github.com/A
 
 ## Manufacturing Process
 
-The feeder was crafted using a combination of advanced CNC machining, 3D printing, and traditional woodshop techniques. Custom components were fabricated with 3D printing and aluminum sheet metal for the cooling system.
+The feeder was crafted using a combination of CNC machining, 3D printing, and traditional woodshop techniques. Custom components were fabricated with 3D printing and aluminum sheet metal for the cooling system.
 
 ### Lid
 ![CNC Lid](https://github.com/user-attachments/assets/2fab2322-5877-42a8-9c55-99246a051d7a)
@@ -64,20 +64,46 @@ The feeder was crafted using a combination of advanced CNC machining, 3D printin
 
 
 ### Turntable
-
 ![cat feeder turntable dimensional drawing](https://github.com/user-attachments/assets/a0950ead-b7b6-436f-9a9d-34da4cd93d10)
+- The turntable was designed to hold 4 full cat food cans (enough food for 2-4 days depending on feeding schedule)
+- there is an empty slot to be used as a home position when the machine is not in use
+  
 ![Turntable Milling](https://github.com/user-attachments/assets/6c4cd75c-c381-45f2-a757-223fee642585)
+- It was cnc milled on a Laguna IQ CNC machine
 ![Turntable milling issue](https://github.com/user-attachments/assets/32855f11-e6e7-464f-9249-ebcc226040fb)
+- The stock material ended up being slightly thicker than what we designed for
+- To fix this, a hand saw was used to cut the rest of the way though
 ![Turntable](https://github.com/user-attachments/assets/504d0fd9-736e-4ade-b650-78bbfeb965f1)
 
 ### Main Housing
+- The main housing of the feeder was designed to accomodate electrical components while balancing providing sufficient insulation to keep food cold as well as evacuating heat from the hot side of the Peltier modules
 
+#### Back Shell
+- The main function of the back shell is to house the electrical components and provide a route for heat to be pulled from the system
 ![cat feeder shell dimensional drawing](https://github.com/user-attachments/assets/6123a16d-bcdf-4d1f-83ca-eea9d3bd0be5)
+- This section of the housing was manufactured using a combination of machine tools and hand tools
+
+- First, each panel of wood (base, 2 side walls, and back wall) we cut to the correct dimensionsions using a miter saw
+- The back wall panel then had 3 circular holes cut in the back, where the fans would later be attached, using a drill press with a hole saw attachment
+  
+- once each panel was cut, aditinal sanding using rotary, belt, and random orbital sanders was don to ensure that the wood was consistently smooth and minimize risk of splintering
+
 ![gluing housing components](https://github.com/user-attachments/assets/ed31a8fe-3cc4-4bfe-a306-0abec0586cb9)
+- The panels were then initiall glued together using wood glue to privide strength and stability for installing wood screws
+
 ![assembled wood components and fans](https://github.com/user-attachments/assets/851e2f9d-d122-401b-a46e-f5dd95160c39)
-![motor tensioning](https://github.com/user-attachments/assets/91ca1d00-bf66-4d75-b252-d9664c1fe852)
 
 #### Fans
+- Three computer fans were placed at the rear of the housig to provide through cooling of the hot side of the peltiers
+
+#### Sliding Motor Tensioning
+![motor tensioning](https://github.com/user-attachments/assets/91ca1d00-bf66-4d75-b252-d9664c1fe852)
+- During assembly, an issue was encountered where the motor would shift and cause the chain to loose tension over time
+- This was resolved by implementing a sliding tensioning system
+
+
+
+
 
 ---
 

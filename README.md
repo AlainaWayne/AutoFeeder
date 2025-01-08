@@ -56,6 +56,20 @@ For the complete Bill of Materials, refer to the [BOM File](https://github.com/A
 
 The feeder was crafted using a combination of advanced CNC machining, 3D printing, and traditional woodshop techniques. Custom components were fabricated with 3D printing and aluminum sheet metal for the cooling system.
 
+### Lid
+![CNC Lid](https://github.com/user-attachments/assets/2fab2322-5877-42a8-9c55-99246a051d7a)
+![lid assembly](https://github.com/user-attachments/assets/aa91b375-ef6d-4174-b1af-b0c7ed78a71f)
+
+### Turntable
+![Turntable Milling](https://github.com/user-attachments/assets/6c4cd75c-c381-45f2-a757-223fee642585)
+![Turntable milling issue](https://github.com/user-attachments/assets/32855f11-e6e7-464f-9249-ebcc226040fb)
+![Turntable](https://github.com/user-attachments/assets/504d0fd9-736e-4ade-b650-78bbfeb965f1)
+
+### Main Housing
+![gluing housing components](https://github.com/user-attachments/assets/ed31a8fe-3cc4-4bfe-a306-0abec0586cb9)
+
+
+
 ---
 ## Software
 

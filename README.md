@@ -1,4 +1,4 @@
-# Automatic Wet Food Feeder
+# Automatic Wet Food Cat Feeder
 
 ![Project External](https://github.com/AlainaWayne/AutomatedWetFoodFeeder/blob/d49c3d3c9f6b8ae83321f5f292f9ef90b6af3bfc/final_assembly_external.jpg)
 ![Project Internal](https://github.com/AlainaWayne/AutomatedWetFoodFeeder/blob/d7d6da683f5ce718efed6bf6cf8943d7db22a0e8/final_assembly_internal.jpg)
@@ -77,8 +77,6 @@ The feeder was crafted using a combination of advanced CNC machining, 3D printin
 ![assembled wood components and fans](https://github.com/user-attachments/assets/851e2f9d-d122-401b-a46e-f5dd95160c39)
 ![motor tensioning](https://github.com/user-attachments/assets/91ca1d00-bf66-4d75-b252-d9664c1fe852)
 
-
-
 #### Fans
 
 ---
@@ -134,7 +132,8 @@ The plan for the code is relatively simple. Below is an outline of its structure
 
 ### Summary
 
-This state machine design ensures clear and predictable operation of the automated feeder, handling both user input and positional accuracy through efficient tracking mechanisms.
+This state machine design ensures clear and predictable operation, handling both user input and positional accuracy.
+
 [Link to Code](https://github.com/AlainaWayne/AutomatedWetFoodFeeder/blob/b0ec120aadc8a26be4aa09604b9c6fafe7771586/feeder_control/feeder_control.ino)
 
 ---
@@ -166,6 +165,7 @@ This state machine design ensures clear and predictable operation of the automat
 - Increased cooling capacity for prolonged food storage
 - Smart integration for remote operation and monitoring
 - Improved manufacturing of hardware components
+- More testing is needed to determin reliablity of Peltier cooling and system operation
 
 ---
 

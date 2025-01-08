@@ -67,7 +67,10 @@ The feeder was crafted using a combination of advanced CNC machining, 3D printin
 
 ### Main Housing
 ![gluing housing components](https://github.com/user-attachments/assets/ed31a8fe-3cc4-4bfe-a306-0abec0586cb9)
+![assembled wood components and fans](https://github.com/user-attachments/assets/851e2f9d-d122-401b-a46e-f5dd95160c39)
 
+
+#### Fans
 
 
 ---

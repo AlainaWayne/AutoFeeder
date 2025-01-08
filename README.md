@@ -56,13 +56,6 @@ For the complete Bill of Materials, refer to the [BOM File](https://github.com/A
 
 The feeder was crafted using a combination of CNC machining, 3D printing, and traditional woodshop techniques. Custom components were fabricated with 3D printing and aluminum sheet metal for the cooling system.
 
-### Lid
-![CNC Lid](https://github.com/user-attachments/assets/2fab2322-5877-42a8-9c55-99246a051d7a)
-![lid assembly](https://github.com/user-attachments/assets/aa91b375-ef6d-4174-b1af-b0c7ed78a71f)
-![fixed lid assembly](https://github.com/user-attachments/assets/d4c7fbf3-443e-458d-a23b-4d91bce9d156)
-![fully asseblmed lid](https://github.com/user-attachments/assets/aa6bb67a-7d0b-41db-be95-67a2a3357767)
-
-
 ### Turntable
 ![cat feeder turntable dimensional drawing](https://github.com/user-attachments/assets/a0950ead-b7b6-436f-9a9d-34da4cd93d10)
 - The turntable was designed to hold 4 full cat food cans (enough food for 2-4 days depending on feeding schedule)
@@ -101,18 +94,25 @@ The feeder was crafted using a combination of CNC machining, 3D printing, and tr
 
 ![assembled wood components and fans](https://github.com/user-attachments/assets/851e2f9d-d122-401b-a46e-f5dd95160c39)
 
-#### Fans
-- Three computer fans were placed at the rear of the housig to provide through cooling of the hot side of the peltiers
+#### 3D Printed Air Intake Section
+![image](https://github.com/user-attachments/assets/28a4eead-7b78-44ba-bd62-9384d86a5934)
+- The front section was designed to be 13 inches wide with symmetrical vent slots for air intake
+- Due to bed size limitations of the Ender 3 Pro, the model was cut in half to be printed in two sections
+- We chose to use PETG filament for its strength and thermal properites
+- Each print was estimated to take about 12 hours (24 hours total) using an 8 mm nozzle
 
-
+#### Lid
+![CNC Lid](https://github.com/user-attachments/assets/2fab2322-5877-42a8-9c55-99246a051d7a)
+![lid assembly](https://github.com/user-attachments/assets/aa91b375-ef6d-4174-b1af-b0c7ed78a71f)
+![fixed lid assembly](https://github.com/user-attachments/assets/d4c7fbf3-443e-458d-a23b-4d91bce9d156)
+![fully asseblmed lid](https://github.com/user-attachments/assets/aa6bb67a-7d0b-41db-be95-67a2a3357767)
+  
+---
 
 #### Sliding Motor Tensioning
 ![motor tensioning](https://github.com/user-attachments/assets/91ca1d00-bf66-4d75-b252-d9664c1fe852)
 - During assembly, an issue was encountered where the motor would shift and cause the chain to loose tension over time
 - This was resolved by implementing a sliding tensioning system
-  
----
-
 ## Electronics
 
 ![main arduino connection scematics](https://github.com/user-attachments/assets/0529dc74-cfa7-4e5c-9bb9-d6115c8f5f5e)

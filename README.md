@@ -53,8 +53,6 @@ For the complete Bill of Materials, refer to the [BOM File](https://github.com/A
 
 The feeder was crafted using a combination of advanced CNC machining, 3D printing, and traditional woodshop techniques. Custom components were fabricated with 3D printing and aluminum sheet metal for the cooling system.
 
-For detailed manufacturing steps, visit the [Manufacturing Guide](link-to-file).
-
 ---
 ## Arduino Code
 
@@ -71,8 +69,6 @@ For detailed manufacturing steps, visit the [Manufacturing Guide](link-to-file).
 ### Results
 - Cooling system reduced temperatures by 34°F over 3 hours.
 - Stepper motor met torque requirements with a significant safety margin.
-
-For full test reports, see [Testing Details](link-to-file).
 
 ---
 

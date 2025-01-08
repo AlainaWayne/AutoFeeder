@@ -81,6 +81,14 @@ The feeder was crafted using a combination of advanced CNC machining, 3D printin
 
 #### Fans
 
+---
+
+## Electronics
+
+![main arduino connection scematics](https://github.com/user-attachments/assets/0529dc74-cfa7-4e5c-9bb9-d6115c8f5f5e)
+![hall sensor scematics](https://github.com/user-attachments/assets/fb0b7ef3-a48f-466d-a0d7-84433eeb6a20)
+![motor scematics](https://github.com/user-attachments/assets/9e43b058-27e7-4ed7-87d3-cb4f6ddad3de)
+![peltier scematics](https://github.com/user-attachments/assets/cc8047c6-5e7e-4c2e-946b-2c52d355bb34)
 
 ---
 ## Software

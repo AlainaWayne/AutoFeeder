@@ -64,11 +64,15 @@ The feeder was crafted using a combination of advanced CNC machining, 3D printin
 
 
 ### Turntable
+
+![cat feeder turntable dimensional drawing](https://github.com/user-attachments/assets/a0950ead-b7b6-436f-9a9d-34da4cd93d10)
 ![Turntable Milling](https://github.com/user-attachments/assets/6c4cd75c-c381-45f2-a757-223fee642585)
 ![Turntable milling issue](https://github.com/user-attachments/assets/32855f11-e6e7-464f-9249-ebcc226040fb)
 ![Turntable](https://github.com/user-attachments/assets/504d0fd9-736e-4ade-b650-78bbfeb965f1)
 
 ### Main Housing
+
+![cat feeder shell dimensional drawing](https://github.com/user-attachments/assets/6123a16d-bcdf-4d1f-83ca-eea9d3bd0be5)
 ![gluing housing components](https://github.com/user-attachments/assets/ed31a8fe-3cc4-4bfe-a306-0abec0586cb9)
 ![assembled wood components and fans](https://github.com/user-attachments/assets/851e2f9d-d122-401b-a46e-f5dd95160c39)
 ![motor tensioning](https://github.com/user-attachments/assets/91ca1d00-bf66-4d75-b252-d9664c1fe852)

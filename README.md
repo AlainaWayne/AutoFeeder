@@ -47,6 +47,7 @@ For the complete Bill of Materials, refer to the [BOM File](https://github.com/A
 3. **Safety:** Designed with pet safety in mind.
 4. **Ease of Maintenance:** Simple to disassemble for cleaning.
 5. **Sustainability:** Incorporates recycled and repurposed components.
+
 ![CAD Model](https://github.com/user-attachments/assets/01eda744-975d-44b9-a6e8-176aee6617dc)
 
 ---

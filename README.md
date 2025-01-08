@@ -2,6 +2,8 @@
 
 ![Project External](https://github.com/AlainaWayne/AutomatedWetFoodFeeder/blob/d49c3d3c9f6b8ae83321f5f292f9ef90b6af3bfc/final_assembly_external.jpg)
 ![Project Internal](https://github.com/AlainaWayne/AutomatedWetFoodFeeder/blob/d7d6da683f5ce718efed6bf6cf8943d7db22a0e8/final_assembly_internal.jpg)
+![CAD Model](https://github.com/user-attachments/assets/01eda744-975d-44b9-a6e8-176aee6617dc)
+
 
 ## Overview
 

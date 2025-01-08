@@ -1,6 +1,7 @@
 # Automatic Wet Food Feeder
 
-![Project Image](https://github.com/AlainaWayne/AutomatedWetFoodFeeder/blob/main/final_product_external.jpg)
+![Project External](https://github.com/AlainaWayne/AutomatedWetFoodFeeder/blob/main/final_product_external.jpg)
+![Project Internal](https://github.com/AlainaWayne/AutomatedWetFoodFeeder/blob/main/final_product_internal.jpg)
 
 ## Overview
 

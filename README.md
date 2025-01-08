@@ -59,6 +59,7 @@ The feeder was crafted using a combination of advanced CNC machining, 3D printin
 ### Lid
 ![CNC Lid](https://github.com/user-attachments/assets/2fab2322-5877-42a8-9c55-99246a051d7a)
 ![lid assembly](https://github.com/user-attachments/assets/aa91b375-ef6d-4174-b1af-b0c7ed78a71f)
+![fixed lid design](https://github.com/user-attachments/assets/9c4af006-a354-458f-9401-18d0298880f0)
 ![fully asseblmed lid](https://github.com/user-attachments/assets/aa6bb67a-7d0b-41db-be95-67a2a3357767)
 
 

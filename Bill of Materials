@@ -1,0 +1,45 @@
+# Bill of Materials (BOM)
+
+| **Material/Component**            | **Quantity** | **Projected Cost (USD)** | **Actual Cost (USD)** |
+|------------------------------------|--------------|---------------------------|-----------------------|
+| 3.5-in Fans                        | 3 pcs        | $15.27                    | N/A                   |
+| Peltier Device                     | 4 pcs        | $14.99                    | N/A                   |
+| Heat Sinks                         | 4 pcs        | $8.99                     | N/A                   |
+| Wood (1in. x 12in. x 8ft.)         | N/A          | N/A                       | N/A                   |
+| Arduino Uno Controller             | 1 pc         | $16.99                    | N/A                   |
+| TB6600 Stepper Motor Driver        | 1 pc         | $10.89                    | $10.89                |
+| Stepper Motor 23HS22-2804S         | 1 pc         | $25.99                    | N/A                   |
+| Assorted Wires                     | -            | N/A                       | N/A                   |
+| Thermal Cutoff Switch              | 1 pc         | $8.99                     | N/A                   |
+| Silicone Dielectric Compound       | 0.05 oz      | N/A                       | N/A                   |
+| Double Reflective Insulation       | 1.5 x 11 in. x 5 pcs | $0.34             | $0.34                 |
+| Reflective Foil Tape               | 1/2 Roll     | $2.49                     | $2.49                 |
+| Spray Foam Insulation              | 2 oz         | $0.74                     | $0.74                 |
+| Loctite                            | 1/2 tube     | $3.29                     | $3.29                 |
+| Liquid Nails                       | 1 oz         | $0.99                     | $0.99                 |
+| CA Glue                            | -            | N/A                       | N/A                   |
+| 2-Part Epoxy                       | 1/8 tube     | $1.53                     | $1.53                 |
+| PETG Filament                      | 1 kg         | $14.99                    | $14.99                |
+| 6x2mm Neodymium Magnets            | 6 pcs        | $0.24                     | $0.24                 |
+| 120V AC to 12V DC Power Supply     | 1 pc         | $19.49                    | $19.49                |
+| Hall-Effect Sensors                | 3 pcs        | $1.05                     | $1.05                 |
+| Lever Wire Connectors              | 8 pcs        | $3.20                     | $3.20                 |
+| Dev Button                         | 1 pc         | N/A                       | N/A                   |
+| Power Switch                       | 1 pc         | N/A                       | N/A                   |
+| 9V Battery                         | 1 pc         | N/A                       | N/A                   |
+| AC Power Cable                     | 1 pc         | N/A                       | N/A                   |
+| Aluminum Sheet Metal               | 128.5 sq in  | N/A                       | N/A                   |
+| Aluminum Rod                       | 1 pc         | N/A                       | N/A                   |
+| 1/4” Machine Screws                | 16 pcs       | $6.08                     | N/A                   |
+| 1/4” Nuts                          | 16 pcs       | $2.19                     | N/A                   |
+| 1/4” Washers                       | 16 pcs       | $0.96                     | N/A                   |
+| Brass Rod                          | 1 pc         | N/A                       | N/A                   |
+| 25 Pitch Roller Chain              | 1.5 ft       | $2.54                     | N/A                   |
+| Martin 25B9                        | 1 pc         | $12.97                    | N/A                   |
+| Martin 25BS14-1/2                  | 1 pc         | $5.40                     | N/A                   |
+| Brass Plated Wood Screws           | 19 pcs       | $1.82                     | N/A                   |
+| Wood Glue                          | -            | N/A                       | N/A                   |
+| Ball Bearings                      | 2 pcs        | $1.09                     | N/A                   |
+| 1.5” Wooden Dowels                 | 8 pcs        | N/A                       | N/A                   |
+
+**Total Cost:** Projected: $183.51 | Actual: $59.24

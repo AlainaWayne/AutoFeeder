@@ -102,6 +102,7 @@ The plan for the code is relatively simple. Below is an outline of its structure
 
 This state machine design ensures clear and predictable operation of the automated feeder, handling both user input and positional accuracy through efficient tracking mechanisms.
 [Link to Code](https://github.com/AlainaWayne/AutomatedWetFoodFeeder/blob/b0ec120aadc8a26be4aa09604b9c6fafe7771586/feeder_control/feeder_control.ino)
+
 ---
 
 ## Testing & Validation

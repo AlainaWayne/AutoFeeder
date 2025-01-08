@@ -34,7 +34,7 @@ This project was developed as part of the MECH 495 Senior Design Capstone at Ket
 | TB6600 Stepper Motor Driver | 1 pc | Motor control                      |
 | Stepper Motor         | 1 pc     | Rotational motion                   |
 
-For the complete Bill of Materials, refer to the [BOM File](link-to-file).
+For the complete Bill of Materials, refer to the [BOM File](https://github.com/AlainaWayne/AutomatedWetFoodFeeder/blob/main/Bill%20of%20Materials).
 
 ---
 

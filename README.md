@@ -57,7 +57,50 @@ For the complete Bill of Materials, refer to the [BOM File](https://github.com/A
 The feeder was crafted using a combination of advanced CNC machining, 3D printing, and traditional woodshop techniques. Custom components were fabricated with 3D printing and aluminum sheet metal for the cooling system.
 
 ---
-## Arduino Code
+## Software
+
+The plan for the code is relatively simple. Below is an outline of its structure and functionality:
+
+### Overview
+
+- **Constants and Variables:** All constants and variables are declared at the start to avoid confusion later.
+- **Setup Routine:** All pin modes are configured in the startup routine.
+- **State Machine:** The main logic is controlled by a state machine with four states:
+
+### States
+
+1. **WaitHome:**
+   - The feeder is at the “home” position (food is not available).
+   - In this state, the machine waits for input (a button in demo mode, or a timed schedule in real operation).
+   - When input is received, the state transitions to `MoveFeed`.
+
+2. **MoveFeed:**
+   - The feeder moves to the next available can.
+   - **Logic:**
+     - Tracks which cans have been used.
+     - Moves in the rotation that is fastest to reach the next available can.
+   - **Tracking:**
+     - Uses magnets and 2 hall effect sensors as an encoder to detect direction and position changes.
+   - Once the desired can is reached, the state transitions to `WaitFeed`.
+
+3. **WaitFeed:**
+   - This state is similar to `WaitHome`.
+   - The machine waits for input to indicate feeding is complete.
+   - When input is received, the state transitions to `MoveHome`.
+
+4. **MoveHome:**
+   - The feeder returns to the “home” position.
+   - **Logic:**
+     - The current location is compared to the home position.
+     - Rotates in the faster direction to return home.
+   - **Tracking:**
+     - An offset hall effect sensor detects a specific magnet placed at the home position.
+     - When the sensor detects this magnet, the machine confirms it is in the “home” position.
+   - Once home, the state transitions back to `WaitHome`.
+
+### Summary
+
+This state machine design ensures clear and predictable operation of the automated feeder, handling both user input and positional accuracy through efficient tracking mechanisms.
 
 [Code](link-to-file).
 ---
